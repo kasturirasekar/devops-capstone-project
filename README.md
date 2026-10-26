@@ -1,10 +1,8 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
+# DevOps Capstone Project
 
-# Capstone Project - DevOps and Software Engineering
-Reflection of the build status:<br>
+Reflection of the build status:
 
-![Build Status](https://github.com/christian-schw/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+[![Build Status](https://github.com/kasturirasekar/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/kasturirasekar/devops-capstone-project/actions/workflows/ci-build.yaml)
 
 <!-- TABLE OF CONTENTS -->
 <details open>
